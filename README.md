@@ -1,2 +1,2 @@
-# pSrinivasraju.github.io
+# psrinivasraju.github.io
 Learning
